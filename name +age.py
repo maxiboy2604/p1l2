@@ -9,3 +9,6 @@ def omtrek_cirkel_berekenen(straal):
     #sayHello("Maxim")
 
 print("de omtrek van de cirkel met straal 5 is:", omtrek_cirkel_berekenen(5))
+
+def vraag_input(onderwerp):
+     return input("geef me een" + onderwerp +": ")
